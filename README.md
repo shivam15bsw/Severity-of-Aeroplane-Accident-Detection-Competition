@@ -1,4 +1,4 @@
-# Severity-of-Aeroplane-Detection-
+# Severity-of-Aeroplane-Accident-Detection
 Machine Learning model to detect Severity of Airplane Accident 
 
 
