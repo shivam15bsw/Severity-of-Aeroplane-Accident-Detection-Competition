@@ -1,4 +1,4 @@
-# Aeroplant
+# Severity of Aeroplant Accident Detection
 Machine Learning model to detect Severity of Airplane Accident 
 
 
